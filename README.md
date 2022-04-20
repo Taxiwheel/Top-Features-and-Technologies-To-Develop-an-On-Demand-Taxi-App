@@ -1,0 +1,2 @@
+# Top-Features-and-Technologies-To-Develop-an-On-Demand-Taxi-App
+The advancement in technology and burgeoning reach of the Internet has evolved the Travel and Transport Industry in facilitating a diverse range of customers. Still, there are a great number of markets that require a taxi fleet management system to enhance customer services. ​The taxi app development can support entrepreneurs to grab a wider market at a time with customer-centric features and on-point marketing strategies. 
